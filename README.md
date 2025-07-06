@@ -18,6 +18,6 @@ This task involved designing and implementing the core UI/UX components of the A
 - Git & GitHub
 
 ### 🎥 Demo Video
-[LinkedIn Video Link or YouTube Link]
+https://www.linkedin.com/posts/dunga-gopi-chand-6a4a93371_androiddevelopment-uiux-kotlin-activity-7347565387510644736-2PV5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFwsuRwBQjAlOvwtL6ftrsttC2lFex8uQAI
 
 ---
